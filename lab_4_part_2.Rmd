@@ -31,3 +31,9 @@ ggplotly(iris_graph) #Makes interactive
 ```
 
 Plotly = a generic user-friendly interactive tool
+
+Making interactive tables: DT
+```{r}
+datatable(msleep)
+```
+
